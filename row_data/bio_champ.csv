@@ -1,0 +1,482 @@
+,champion,race,type,region,bio
+1,Aatrox,"RACE
+DARKIN","RÔLE
+COMBATTANT","RÉGION
+RUNETERRA","Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des siècles d'emprisonnement, Aatrox fut le premier à retrouver sa liberté, en corrompant et transformant les mortels assez stupides pour tenter de s'emparer de l'arme magique qui contenait son essence. Désormais en possession d'un corps qu'il a approximativement transformé pour rappeler son ancienne forme, il arpente Runeterra en cherchant à assouvir sa vengeance apocalyptique."
+2,Ahri,"RACE
+VASTAYA","RÔLE
+MAGE","RÉGION
+IONIA","Connectée à la magie du royaume spirituel, Ahri est une mystérieuse Vastaya aux traits de renard qui cherche sa place dans le monde. Devenue malgré elle une prédatrice dotée d'empathie en découvrant les humains, elle préfère manipuler les émotions de sa proie avant de s'emparer de son essence vitale. Elle reçoit ainsi des fragments de souvenirs et un aperçu de chaque âme qu'elle consume."
+3,Akali,Unknown,"RÔLE
+ASSASSIN","RÉGION
+IONIA","Ayant abandonné l'Ordre Kinkou et le titre de Poing des ombres, Akali combat aujourd'hui seule, prête à devenir l'arme mortelle dont son peuple a besoin. Bien qu'elle n'oublie rien de tout ce que son maître Shen lui a enseigné, elle a juré de défendre Ionia contre ses ennemis, une élimination après l'autre. Akali tue sans faire de bruit, mais son message est fort et clair : craignez l'assassin sans maître."
+4,Akshan,Unknown,"RÔLE
+TIREUR","RÉGION
+SHURIMA","Se jouant du danger, Akshan combat le mal sans jamais se départir de son charisme (il ne faut jamais sous-estimer l'importance de la cape) et de sa droiture. Il est passé maître dans l'art du combat furtif, ce qui lui permet d'échapper au regard de ses ennemis et de réapparaître lorsqu'ils s'y attendent le moins. À l'aide de son sens aigu de la justice et d'une arme légendaire défiant la mort elle-même, il redresse les torts des nombreux vauriens de Runeterra. Sa règle d'or : « ne sois pas crapuleux. »"
+5,Alistar,Unknown,"RÔLE
+TANK","RÉGION
+RUNETERRA","Alistar est un guerrier redoutable cherchant à se venger de l'empire noxien qui a détruit son clan. Bien qu'il ait été réduit en esclavage et forcé de vivre une vie de gladiateur, sa volonté de fer lui a permis de ne pas succomber à la folie bestiale qui le menaçait. Maintenant qu'il a retrouvé la liberté, il combat au nom des faibles et des opprimés. Ses seules armes sont ses cornes, ses sabots et ses poings."
+6,Amumu,Unknown,"RÔLE
+TANK","RÉGION
+SHURIMA","La légende veut qu'Amumu soit une âme solitaire et mélancolique de la Shurima antique et qu'il parcoure le monde à la recherche d'un ami. Condamné par une malédiction à rester seul à jamais, il provoque la mort et la ruine à chaque geste d'affection. Ceux qui prétendent l'avoir vu le décrivent comme un cadavre vivant, petit de taille, enveloppé dans d'effrayants bandages. Il a inspiré bien des mythes, des chansons et des légendes, transmis de génération en génération pendant si longtemps qu'il est désormais impossible de démêler le vrai du faux."
+7,Anivia,Unknown,"RÔLE
+MAGE","RÉGION
+FRELJORD","Anivia est un esprit ailé bienveillant qui subit des cycles sans fin de vie, de mort et de renaissance pour protéger Freljord. Demi-déesse née de la glace la plus froide et des vents les plus coupants, elle utilise ses pouvoirs élémentaires contre quiconque prétend troubler la paix de sa terre natale. Anivia guide et protège les tribus du Nord, qui la vénèrent comme un symbole d'espoir et la promesse de grands changements. Elle combat de tout son être, sachant que son sacrifice fera vivre sa légende et qu'elle renaîtra dans un lendemain nouveau."
+8,Annie,Unknown,"RÔLE
+MAGE","RÉGION
+RUNETERRA","Dangereuse, incroyablement précoce, Annie est une enfant mage dotée d'extraordinaires pouvoirs de pyrokinésie. Même à l'ombre des montagnes du nord de Noxus, sa magie est un cas unique. Son affinité naturelle avec le feu se manifesta dès sa prime enfance à travers des explosions émotionnelles imprévisibles, même si elle apprit rapidement à contrôler ces éclats. Parmi ses jeux favoris, elle aime invoquer son bien-aimé ours en peluche, Tibbers, sous la forme d'un protecteur enflammé. Perdue dans l'innocence perpétuelle de l'enfance, Annie sautille dans les forêts obscures, à la recherche de quelqu'un avec qui jouer."
+9,Alune,Unknown,"RÔLE
+TIREUR","RÉGION
+TARGON","Émergeant des ombres au clair de lune, Aphelios abat ceux qui voudraient anéantir sa foi sans un mot ; ses armes et sa précision mortelle parlent pour lui. Bien qu'animé par un poison qui le rend muet, il est guidé par sa sœur, Alune, qui depuis son lointain temple sacré lui confère un arsenal d'armes en pierre de lune. Tant que la lune brillera dans le ciel, Aphelios ne sera jamais seul."
+10,Ashe,Unknown,"RÔLE
+TIREUR","RÉGION
+FRELJORD","Chef de guerre sublimé de la tribu des Avarosans, Ashe est à la tête de la plus vaste horde des terres du nord. Stoïque, intelligente et idéaliste, mais mal à l'aise dans son rôle de leader, elle puise dans la magie ancestrale de sa lignée pour manier un arc de glace pure. Soutenue par son peuple qui voit en elle la réincarnation de la légendaire héroïne Avarosa, Ashe cherche à unifier Freljord en reprenant les terres tribales."
+11,Sol,Unknown,"RÔLE
+MAGE","RÉGION
+RUNETERRA","Autrefois, Aurelion Sol façonnait des merveilles dont il parsemait le vide infini du royaume céleste. Mais les Manifestations de Targon se jouèrent de lui et lui arrachèrent les secrets d'un soleil de sa création. Son immense pouvoir fut canalisé dans des dieux-guerriers immortels pour protéger le monde apparemment insignifiant de Runeterra. Désireux de redevenir le forgeron stellaire qu'il était, Aurelion Sol n'hésitera pas à arracher les étoiles de leur ciel nocturne si c'est là le prix à payer pour regagner sa liberté."
+12,Azir,Unknown,"RÔLE
+MAGE","RÉGION
+SHURIMA","Azir fut l'empereur mortel de Shurima en des temps très lointains, un homme fier dressé au bord de l'immortalité. Son orgueil lui valut d'être trahi et assassiné à l'heure de son triomphe ; mais des millénaires se sont écoulés et il revient sous la forme d'un être transfiguré à l'immense puissance. Sa cité ensevelie ayant ressurgi des sables, Azir cherche à rendre sa gloire passée à Shurima."
+13,Ryze,Unknown,"RÔLE
+SUPPORT","RÉGION
+RUNETERRA","Voyageur d'au-delà des étoiles, Bard est un messager des bons augures qui combat pour maintenir l'équilibre entre la création et l'indifférence du chaos. Dans tout Runeterra, sa mystérieuse nature inspire des chants qui ne sont d'accord que sur un point : le vagabond cosmique est attiré par les reliques dotées d'un grand pouvoir magique. Accompagné par un chœur joyeux de Meeps, il n'a d'actions que bénéfiques, même s'il a sa propre manière, un peu étrange, de servir le bien."
+14,Blitzcrank,Unknown,"RÔLE
+TANK","RÉGION
+ZAUN","Blitzcrank, colosse de métal poli, de vapeur et d'électricité crépitante, patrouille inlassablement les rues de Zaun dans le but d'améliorer la qualité de vie dans la ville souterraine et d'aider ceux dans le besoin. Conçu pour résister aux environnements les plus pollués et dangereux de Zaun et pour en traiter les déchets toxiques, il a dépassé les limites de sa programmation originale grâce au génie de son inventeur et au mystérieux pouvoir de l'Hextech."
+15,Brand,Unknown,"RÔLE
+MAGE","RÉGION
+RUNETERRA","Autrefois membre d'une tribu de Freljord, Kegan Rodhe est devenu l'être que l'on connaît sous le nom de Brand à force de convoiter des pouvoirs toujours plus grands. Alors qu'il recherchait l'une des légendaires Runes telluriques, Kegan trahit ses compagnons et s'en empara ; en un instant, son âme fut consumée par un brasier qui le changea à jamais. Désormais animé d'un feu inextinguible, Brand parcourt Valoran en quête d'autres runes, jurant vengeance pour des trahisons qu'aucun mortel n'aurait pu subir au cours d'une dizaine de vies."
+16,Braum,Unknown,"RÔLE
+SUPPORT","RÉGION
+FRELJORD","Doté de biceps énormes, et d'un cœur plus grand encore, Braum est un héros sublimé que tout Freljord admire. Lors de tous les banquets au nord de Frostheld, on rend hommage à sa force légendaire. On raconte qu'il a abattu une forêt entière de chênes en une seule nuit, ou encore qu'il a réduit en miettes une montagne à coups de poing. Armé de son bouclier, une porte enchantée forgée en des temps anciens, Braum parcourt le Nord gelé en protecteur enjoué, vient en aide aux personnes vulnérables et travaille à instaurer la paix dont il rêve à Freljord."
+17,Caitlyn,Unknown,"RÔLE
+TIREUR","RÉGION
+PILTOVER","Caitlyn est la plus célèbre gardienne de la paix à Piltover, mais elle est aussi la plus apte à débarrasser la ville de ses criminels les plus insaisissables. Elle fait souvent équipe avec Vi, son calme faisant contrepoids à la fougue de sa partenaire. Bien qu'elle porte un fusil Hextech unique en son genre, la meilleure arme de Caitlyn reste son intelligence ; elle invente en effet des pièges élaborés pour attraper les bandits qui auraient l'audace d'agir dans la Cité du progrès."
+18,Camille,Unknown,"RÔLE
+COMBATTANT","RÉGION
+PILTOVER","Transformée en arme pour agir en dehors des limites de la loi, Camille est le principal défenseur du clan Ferros, un agent d'élite élégant qui contribue à faire fonctionner correctement la machine de Piltover et son ombre zaunienne. Son adaptabilité et sa précision sont si élevées qu'une technique maladroite est pour elle une honte qu'il convient d'éradiquer. Dotée d'un esprit aussi affûté que ses lames, Camille recherche la supériorité par l'optimisation Hextech du corps, au point que certains se demandent si elle n'est pas désormais plus machine que femme."
+19,Cassiopeia,Unknown,"RÔLE
+MAGE","RÉGION
+NOXUS","Cassiopeia est une créature meurtrière qui excelle dans l'art de la manipulation. Elle était la plus jeune et la plus belle des filles de la famille noxienne Du Couteau, mais le jour où elle s'aventura dans les cryptes de Shurima en quête d'un pouvoir antique, le venin d'un gardien la transforma en un prédateur reptilien. Aussi rusée qu'agile, Cassiopeia se faufile désormais dans les ombres de la nuit, pétrifiant ses ennemis d'un simple regard."
+20,Cho'Gath,Unknown,"RÔLE
+TANK","RÉGION
+LE NÉANT","Lorsque Cho'Gath débarqua sous la lumière éclatante du soleil de Runeterra, il fut immédiatement pris d'une faim insatiable. Incarnation parfaite de la volonté du Néant de dévorer toute forme de vie, le corps complexe de Cho'Gath convertit rapidement la matière qu'il ingurgite pour accroître sa masse musculaire et rendre sa carapace aussi dure que du diamant. Et quand grandir n'est pas sa priorité immédiate, ce monstre du Néant peut recracher de la matière sous forme de piques effilées afin d'embrocher sa proie... et de la garder pour un prochain festin."
+21,Corki,Unknown,"RÔLE
+TIREUR","RÉGION
+BANDLE","Il y a deux choses que Corki, le pilote yordle, aime plus que tout au monde : les sensations de vol et sa fantastique moustache... mais pas nécessairement dans cet ordre. Après avoir quitté Bandle, il s'installa à Piltover, où il tomba amoureux des merveilleuses machines qu'il y trouva. Il consacra tout son temps au développement d'engins volants, tout en menant une unité de défense aérienne composée de pilotes aguerris : les Serpents volants. Serein même sous le feu ennemi, Corki patrouille dans l'espace aérien de sa patrie d'adoption, et il ne rencontre jamais le moindre problème qu'un bon gros missile ne puisse résoudre."
+22,Darius,Unknown,"RÔLE
+COMBATTANT","RÉGION
+NOXUS","Il n'est pas de plus grand symbole de la puissance de Noxus que Darius, le guerrier le plus craint et le plus endurci de la nation. D'origine modeste, celui qui s'est élevé jusqu'à devenir la Main de Noxus pourfend aujourd'hui les ennemis de l'empire, dont certains sont eux-mêmes des Noxiens. Il ne doute jamais de la justesse de sa cause et ne montre pas la moindre hésitation lorsque sa hache est levée. Ceux qui s'opposent au commandant de la Légion Trifarian ne doivent s'attendre à aucune pitié."
+23,Diana,Unknown,"RÔLE
+COMBATTANT","RÉGION
+TARGON","Armée de son croissant de lune et vêtue d'une armure étincelante évoquant les reflets de la nuit sur un paysage enneigé, Diana incarne la puissance de la lune. L'essence d'une Manifestation venue d'au-delà des plus hauts sommets de Targon imprègne Diana : plus tout à fait humaine, elle lutte pour comprendre sa puissance et son rôle en ce monde."
+24,Mundo,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ZAUN","Totalement fou, porté tragiquement sur l'homicide, horriblement violet, Dr. Mundo est la principale raison pour laquelle les citoyens de Zaun restent calfeutrés chez eux les nuits les plus sombres. Désormais médecin autoproclamé, il était autrefois un patient dans l'asile le plus sinistre de Zaun. Après avoir « soigné » tout le personnel de l'hôpital, Dr. Mundo installa son cabinet dans la salle où on le traitait auparavant et il commença à imiter les procédures immorales qu'il avait si souvent subies lui-même. Avec une pharmacie pleine et une absence totale de connaissances médicales, il devient plus monstrueux à chaque injection et il terrifie les « patients » qui ont le malheur de se trouver sous son bistouri."
+25,Draven,Unknown,"RÔLE
+TIREUR","RÉGION
+NOXUS","À Noxus, de puissants guerriers, les « arénaires », s'affrontent dans des jeux mortels pour divertir le public. Le sang y coule à foison et leurs forces y sont éprouvées, mais aucun d'entre eux n'a jamais été aussi célèbre que Draven. Cet ancien soldat découvrit que le public appréciait particulièrement son sens du spectacle, sans parler de son habileté avec des haches tournoyantes. Épris de sa propre perfection, Draven terrasse tous ses adversaires pour s'assurer que son nom continue de résonner dans les arènes de l'empire."
+26,Ekko,Unknown,"RÔLE
+ASSASSIN","RÉGION
+ZAUN","Jeune prodige des rues mal famées de Zaun, Ekko manipule le temps pour renverser toute situation dangereuse à son avantage. En utilisant sa propre invention, la clepsydre-zéro, il explore les différents possibles de la réalité pour sculpter des moments parfaits. Bien qu'il aime sa liberté, lorsque ses amis sont menacés, il est prêt à tout pour les défendre. Pour quiconque ne le connaît pas, Ekko semble toujours accomplir l'impossible, et du premier coup."
+27,Elise,Unknown,"RÔLE
+MAGE","RÉGION
+ÎLES OBSCURES","Elise est un prédateur mortel qui vit dans un palais reclus et obscur, au plus profond de la plus vieille ville de Noxus. C'était autrefois la maîtresse d'une Maison noble toute-puissante, jusqu'à ce que la morsure d'un maléfique dieu araignée la transforme en un être aussi magnifique qu'inhumain : une créature arachnéenne qui tisse sa toile pour piéger ses proies. Elise se repaît désormais des innocents et peu sont ceux qui peuvent résister à sa séduction."
+28,Evelynn,Unknown,"RÔLE
+ASSASSIN","RÉGION
+RUNETERRA","Dans les sombres failles de Runeterra, le démon nommé Evelynn cherche sa prochaine victime. Elle attire sa proie en se faisant passer pour une femme voluptueuse, et dès que sa cible succombe à ses charmes, Evelynn révèle sa véritable nature. Elle inflige alors à sa victime des tourments indicibles et se repaît de sa douleur. Pour un démon, ce ne sont que des plaisirs innocents. Aux yeux du reste de Runeterra, ce sont des contes terrifiants, qui rappellent les dangers du désir et de la luxure."
+29,Ezreal,Unknown,"RÔLE
+TIREUR","RÉGION
+PILTOVER","Aventurier audacieux, doué sans le savoir pour les arts magiques, Ezreal poursuit ses expéditions dans les catacombes oubliées, se bat avec d'antiques malédictions et contourne avec aisance les obstacles les plus impossibles. Son courage et son panache sont sans borne, et il préfère improviser son salut dans les situations critiques, avec pour armes principales sa vivacité d'esprit et son gantelet mystique shurimien, qu'il utilise pour déchaîner de puissants projectiles arcaniques. Une chose est sûre : quand Ezreal est dans les parages, les problèmes ne sont pas loin. Et ils sont partout. Absolument partout."
+30,inconnue,Unknown,"RÔLE
+MAGE","RÉGION
+RUNETERRA","Quelque chose s'est éveillé à Runeterra. Quelque chose d'ancien. Quelque chose de terrible. L'horreur intemporelle connue sous le nom de Fiddlesticks arpente les frontières des civilisations mortelles, attirée dans les régions en proie à la paranoïa, où elle se repaît de ses victimes terrorisées. Armée d'une faux ébréchée, la créature décharnée moissonne la peur elle-même et fait voler en éclats l'esprit de ceux qui ont eu la malchance de lui survivre. Prenez garde aux cris des corbeaux et aux chuchotements de la silhouette qui vous paraît humaine… car Fiddlesticks est de retour."
+31,Fiora,Unknown,"RÔLE
+COMBATTANT","RÉGION
+DEMACIA","Fiora est la duelliste la plus redoutée de Valoran : elle est connue pour ses manières brusques et sa ruse politique autant que pour la rapidité de sa rapière. Née au sein de la famille Laurent de Demacia, Fiora a pris le contrôle de la Maison à son père dans les remous d'un scandale qui faillit la détruire. Désormais, elle se consacre à redonner aux Laurent la place qui leur revient parmi les grands noms du royaume."
+32,Fizz,Unknown,"RÔLE
+ASSASSIN","RÉGION
+RUNETERRA","Fizz est un yordle amphibie qui vit dans les récifs qui entourent Bilgewater. Il essaie souvent de récupérer et de rendre les tributs que lancent dans l'océan les capitaines superstitieux, mais même le plus dessalé des marins n'est pas assez arrogant pour essayer de le tromper. On raconte bien des histoires sur ceux qui ont sous-estimé son humeur changeante... Souvent confondu avec un esprit océanique capricieux, il semble capable de commander aux créatures des profondeurs et n'aime rien tant que confondre alliés comme ennemis."
+33,Galio,Unknown,"RÔLE
+TANK","RÉGION
+DEMACIA","Près de la Grande cité de Demacia, le colosse de pierre Galio monte une garde attentive. Érigé comme un rempart contre les mages ennemis, il reste souvent immobile pendant des décennies, jusqu'à ce que l'apparition de puissants flux magiques le ramène à la vie. Une fois éveillé, Galio profite de chaque seconde d'existence ; il s'enivre des frissons du combat et de l'honneur trop rare de défendre ses compatriotes. Mais ses triomphes ont toujours un arrière-goût amer, car la magie qu'il éradique est également la sève qui le fait vivre, et chaque victoire le renvoie au sommeil."
+34,Gangplank,Unknown,"RÔLE
+COMBATTANT","RÉGION
+BILGEWATER","Aussi imprévisible que brutal, le roi des pillards déchu connu sous le nom de Gangplank est partout redouté. Il régnait autrefois sur la ville portuaire de Bilgewater et, bien que ce temps soit révolu, certains pensent que cela l'a rendu plus dangereux encore. Gangplank préférerait engloutir une fois de plus Bilgewater dans le sang plutôt que de laisser quelqu'un d'autre s'en emparer. Il possède aujourd'hui assez de pistolets, de sabres et de barils de poudre pour prétendre récupérer ce qu'il a perdu."
+35,Garen,Unknown,"RÔLE
+COMBATTANT","RÉGION
+DEMACIA","Fier et noble soldat, Garen combat à la tête du Détachement hardi. Héritier des Crownguard, la famille chargée de défendre Demacia et ses idéaux, il est apprécié par ses compatriotes et respecté par ses ennemis. Équipé d'une armure résistante à la magie et d'une épée large, Garen affronte sans faillir les mages et les sorciers dans un véritable tourbillon d'acier."
+36,Gnar,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Gnar est un yordle dont les manières joyeuses peuvent soudain faire place à une colère irrationnelle. Il se transforme alors en une bête colossale portée à la destruction. Gelé dans de la glace pure pendant des millénaires, la curieuse créature s'est libérée de sa prison. Aujourd'hui, Gnar parcourt avec enthousiasme un monde qu'il trouve exotique et merveilleux. Enchanté par le danger, Gnar lance à ses ennemis tout ce qu'il trouve, qu'il s'agisse de son boomerang en croc... ou d'un tronc déraciné."
+37,Gragas,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Aussi imposant que jovial, Gragas est un brasseur à l'impressionnante carrure qui cherche la recette de la bière parfaite. Venu d'on ne sait où, il continue de chercher les ingrédients les plus rares dans les terres vierges de Freljord, essayant toutes les variations de bière au cours de son périple. Souvent ivre et toujours impulsif, il est légendaire pour ses rixes, qui finissent souvent en fêtes nocturnes préjudiciables au mobilier urbain. Toute apparition de Gragas annonce beuverie et destruction. Dans cet ordre."
+38,Graves,Unknown,"RÔLE
+TIREUR","RÉGION
+BILGEWATER","Malcolm Graves est un mercenaire, un parieur et un voleur recherché dans toutes les cités et tous les empires par lesquels il est passé. Malgré son tempérament explosif, il a un sens de l'honneur strict et indéniable, qu'il applique souvent avec son fusil à double canon, Destinée. Ces dernières années, il s'est réconcilié avec Twisted Fate. Leur partenariat rétabli, ils prospèrent à nouveau dans les allées sombres de Bilgewater."
+39,Gwen,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ÎLES OBSCURES","Ancienne poupée à qui la magie a conféré la vie, Gwen est armée des outils qui l'ont créée. Elle emporte à chaque pas l'amour de sa créatrice et ne tient jamais rien pour acquis. Elle commande à la Brume sacrée, une ancienne magie de protection qui a béni ses ciseaux, ses aiguilles et son fil à coudre. Tout est nouveau pour Gwen, mais elle reste déterminée à combattre dans la joie pour préserver le bien qui survit dans un monde en déréliction."
+40,Hecarim,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ÎLES OBSCURES","Fusion spectrale de l'homme et de la bête, Hecarim est condamné à pourchasser les âmes des vivants pour l'éternité. Lorsque les ombres ont envahi les Îles bénies, ce fier chevalier et sa horde de cavaliers ont été anéantis par les énergies destructrices de la Ruine. À présent, quand la Brume noire s'étend sur Runeterra, il mène la charge et se plaît à massacrer et écraser ses ennemis sous ses lourds sabots."
+41,Heimerdinger,Unknown,"RÔLE
+MAGE","RÉGION
+PILTOVER","Scientifique yordle aussi brillant qu'excentrique, le professeur Cecil B. Heimerdinger est considéré comme l'un des inventeurs les plus innovants qu'ait connu Piltover. Travailleur si acharné que cela confine à l'obsession, il cherche les réponses aux questions les plus obscures de l'univers. Bien que ses théories paraissent souvent opaques et ésotériques, Heimerdinger a fabriqué quelques-unes des machineries les plus étonnantes (et les plus mortelles) de Piltover. Il ne cesse jamais de bidouiller ses inventions pour les améliorer encore."
+42,Illaoi,Unknown,"RÔLE
+COMBATTANT","RÉGION
+BILGEWATER","La stature colossale d'Illaoi n'a d'égale que sa foi implacable. Prophétesse du Grand Kraken, elle se sert d'une énorme idole dorée pour arracher les esprits de ses ennemis et faire voler en éclats leur perception de la réalité. Ceux qui défient « l'Apôtre de la vérité de Nagakabouros » découvrent bien vite qu'Illaoi ne combat jamais seule, car le dieu des Îles aux serpents lui prête main-forte."
+43,Irelia,Unknown,"RÔLE
+COMBATTANT","RÉGION
+IONIA","Des nombreux héros qui naquirent de l'occupation noxienne, aucun n'est plus étonnant que la jeune Irelia de Navori. Formée aux danses ancestrales de sa province, elle adapta son art à la guerre, se servant de ses mouvements gracieux et précis pour faire léviter une multitude de lames acérées. Après avoir prouvé ses talents de guerrière, elle devint le chef et le symbole de la Résistance ; à ce jour, sa tâche est toujours de défendre son pays."
+44,Ivern,Unknown,"RÔLE
+SUPPORT","RÉGION
+IONIA","Ivern, que beaucoup connaissent sous le nom de Roncepied ou de Vieil arbre, est un être étrange, mi-homme mi-arbre, qui arpente les forêts de Runeterra en cultivant la vie partout où il va. Il connaît les secrets du monde naturel et entretient une profonde amitié avec tout ce qui rampe, vole et pousse. Il enrichit les forêts, partage sa sagesse mystérieuse avec les mortels dont il croise la route et, parfois, confie ses secrets aux papillons bavards."
+45,Janna,Unknown,"RÔLE
+SUPPORT","RÉGION
+ZAUN","Janna est un esprit élémentaire mystérieux qui protège les parias de Zaun. Bien que sa présence se ressente le plus souvent sous la forme d'une brise rafraîchissante ou d'une violente tempête, elle peut également se manifester aux yeux des mortels sous la forme d'une silhouette éthérée pour réconforter les infortunés. Janna a vu l'avènement et la chute de civilisations entières à travers les âges. Elle a toujours été une lueur d'espoir pour ceux qui en avaient besoin."
+46,IV,Unknown,"RÔLE
+TANK","RÉGION
+DEMACIA","Fils unique du roi, le prince Jarvan doit un jour monter sur le trône de Demacia. Élevé de manière à incarner les plus hautes vertus de sa nation, il est contraint de trouver un équilibre entre les attentes placées en lui et son désir de faire ses preuves sur le champ de bataille. Guerrier d'exception, Jarvan inspire ses troupes avec son courage, sa détermination et son dévouement. Il porte haut les couleurs de sa famille et révèle chaque jour davantage sa véritable force de prochain souverain."
+47,Jax,Unknown,"RÔLE
+COMBATTANT","RÉGION
+RUNETERRA","Jax, le plus grand maître d'armes de Runeterra, est le dernier survivant des Kohari, les champions voués à la défense d'Icathia. Lorsque le Néant fut déchaîné contre l'Ost des Transfigurés de Shurima, Icathia fut détruite, laissant Jax sans foyer ni raison d'être. Il a récupéré la « dernière lumière d'Icathia », symbole de son espoir de pouvoir un jour vaincre le Néant, et voyage désormais à travers le monde à la recherche de guerriers suffisamment puissants pour affronter les ténèbres à ses côtés."
+48,Jayce,Unknown,"RÔLE
+COMBATTANT","RÉGION
+PILTOVER","Jayce est un brillant inventeur qui a voué sa vie à la défense de Piltover et de sa poursuite inlassable du progrès. Armé de son marteau Hextech polymorphe, Jayce utilise aussi bien sa force que son courage et son intelligence pour protéger sa ville. Bien que considéré comme un héros par ses compatriotes, il n'apprécie pas vraiment l'attention que cela lui vaut. Jayce a néanmoins un cœur d'or, et même ceux qui sont jaloux de ses talents naturels lui sont reconnaissants de protéger la Cité du progrès."
+49,Jhin,Unknown,"RÔLE
+TIREUR","RÉGION
+IONIA","Jhin est un psychopathe méticuleux pour qui le meurtre est une forme d'art. Autrefois prisonnier de Ionia, mais libéré par des conspirateurs opérant au sein du conseil dirigeant du pays, ce tueur en série a désormais mis ses talents d'assassin au service de leur complot. Utilisant son pistolet comme un pinceau, Jhin crée des œuvres d'art empreintes de brutalité, aussi terrifiantes pour ses victimes que pour les témoins de ses crimes. Il tire un plaisir sadique de ses performances théâtrales, ce qui en fait un atout de poids quand il s'agit d'envoyer le plus puissant des messages : celui de la terreur."
+50,Jinx,Unknown,"RÔLE
+TIREUR","RÉGION
+ZAUN","Criminelle hystérique et impulsive de Zaun, Jinx ne vit que pour semer le chaos sans se préoccuper des conséquences. Équipée d'un arsenal d'armes mortelles, elle déchaîne les explosions les plus spectaculaires en ne laissant dans son sillage que destruction et panique. Jinx déteste s'ennuyer et c'est dans la bonne humeur qu'elle sème le chaos dans tous les endroits qu'elle traverse."
+51,Kai'Sa,Unknown,"RÔLE
+TIREUR","RÉGION
+LE NÉANT","Capturée par le Néant alors qu'elle n'était qu'une enfant, Kai'Sa parvint à survivre par la simple force de sa détermination et de sa ténacité. Si ses expériences ont fait d'elle une chasseuse meurtrière, certains voient en elle l'avant-goût d'un avenir qu'ils préféreraient ne pas connaître. Étant entrée en fragile symbiose avec une carapace vivante du Néant, il lui faudra bientôt décider si elle doit pardonner aux mortels qui la considèrent comme un monstre et vaincre la vague grandissante des ténèbres… ou si elle doit fermer les yeux et laisser le Néant consumer le monde qui l'a abandonnée."
+52,Kalista,Unknown,"RÔLE
+TIREUR","RÉGION
+ÎLES OBSCURES","Spectre courroucé des Îles obscures, Kalista est l'incarnation immortelle de la vengeance, un cauchemar en armure que l'on invoque pour pourchasser les traîtres et les imposteurs. Les victimes trahies peuvent réclamer vengeance, mais Kalista ne répond qu'à ceux dont elle estime la cause digne de ses talents. Malheur à ceux qui suscitent l'ire de Kalista, car tout pacte qu'elle scelle ne se finit que d'une seule façon : dans les flammes glacées de ses lances spirituelles."
+53,Karma,Unknown,"RÔLE
+MAGE","RÉGION
+IONIA","Aucun mortel n'incarne mieux que Karma les traditions spirituelles d'Ionia. Elle est l'hôte vivant d'une âme ancienne réincarnée à de multiples reprises. Elle contient tous les souvenirs accumulés au fil de ces vies et elle possède une puissance que peu peuvent comprendre. Elle a fait de son mieux pour guider son peuple lors de la crise récente, même si elle sait que la paix et l'harmonie ne sont possibles qu'à un prix élevé, pour elle et pour la terre qu'elle aime tant."
+54,Karthus,Unknown,"RÔLE
+MAGE","RÉGION
+ÎLES OBSCURES","Héraut de l'oubli, Karthus est un esprit immortel dont les chants ensorcelants préludent à l'horreur de son apparition. Les vivants craignent l'existence éternelle des morts-vivants, mais Karthus n'y voit que beauté et pureté, une union parfaite de la vie et de la mort. Lorsque Karthus émerge des Îles obscures, c'est pour apporter aux mortels la joie de la mort dont il est le vibrant apôtre."
+55,Kassadin,Unknown,"RÔLE
+ASSASSIN","RÉGION
+LE NÉANT","Kassadin se fraye un chemin dans les lieux les plus sombres du monde en sachant que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son village fut ravagé par le Néant. Il jura de se venger et s'arma de reliques arcaniques qu'il combina à l'aide de technologies interdites. Enfin, Kassadin se dirigea vers les ruines d'Icathia à la recherche du prophète autoproclamé, Malzahar, prêt à affronter les monstres du Néant."
+56,Katarina,Unknown,"RÔLE
+ASSASSIN","RÉGION
+NOXUS","Aussi prompte dans ses décisions qu'elle est meurtrière en combat, Katarina figure parmi les assassins les plus prestigieux de Noxus. Fille aînée du légendaire général Du Couteau, elle révéla bien vite ses talents en éliminant ses ennemis avec la plus grande des discrétions. Son ambition était telle qu'elle n'hésitait pas à traquer des cibles solidement gardées, au risque de mettre ses alliés en danger. Quelle que fût la mission, elle n'hésitait jamais à remplir son devoir dans un tourbillon de lames acérées."
+57,Kayle,Unknown,"RÔLE
+COMBATTANT","RÉGION
+DEMACIA","Née d'une Manifestation targonienne au plus fort des Guerres runiques, Kayle honore l'héritage de sa mère en combattant pour la justice sur des ailes de feu divin. Elle et sa sœur jumelle Morgana ont longtemps été les protectrices de Demacia. Mais Kayle fut déçue par les trop nombreuses faiblesses des mortels et elle abandonna le royaume. Pourtant, d'après les légendes, elle punit toujours l'iniquité avec ses lames de feu, et beaucoup attendent avec espoir son retour…"
+58,Kayn,"RACE
+DARKIN","RÔLE
+ASSASSIN","RÉGION
+IONIA","Expert inégalé dans la pratique de la magie des ombres, Shieda Kayn combat pour accomplir sa véritable destinée : mener un jour l'Ordre de l'ombre vers une ère nouvelle où Ionia régnera en maître. Il manie Rhaast, une arme darkin douée de raison, sans jamais craindre la corruption de son corps et de son esprit. Il ne peut y avoir pour lui que deux fins possibles : soit Kayn pliera l'arme à sa volonté, soit la faux maléfique le consumera complètement, ouvrant la voie à la destruction de tout Runeterra."
+59,Kennen,Unknown,"RÔLE
+MAGE","RÉGION
+IONIA","Plus ancien membre actuel de l'ordre ancestral du Kinkou, le yordle Kennen est le premier et le seul Cœur de la tempête. Pendant des siècles, il employa la diplomatie – ainsi que la force – pour entretenir l'équilibre sacré de sa patrie d'adoption, Ionia. Rapide comme l'éclair et animé par la sagesse d'une vie bien remplie, Kennen unit ses forces avec l'Œil du crépuscule, Shen, pour protéger la fragile harmonie des Terres premières à l'aide de sa tempête de shurikens et de son énergie électrique dévastatrice."
+60,Kha'Zix,Unknown,"RÔLE
+ASSASSIN","RÉGION
+LE NÉANT","Le Néant grandit et le Néant s'adapte : parmi ses nombreuses engeances, nul n'incarne mieux cette vérité que Kha'Zix. Ce monstre est né pour survivre et pour tuer les plus forts. Quand il ne parvient pas à ses fins, il évolue et se crée de nouveaux moyens plus efficaces d'abattre sa proie. Alors que Kha'Zix n'était à l'origine qu'une créature sans cervelle, son intelligence s'est développée autant que sa forme physique. Aujourd'hui, chacune de ses traques est planifiée et profite même de la peur viscérale qu'il instille dans le cœur de ses victimes."
+61,Kindred,Unknown,"RÔLE
+TIREUR","RÉGION
+RUNETERRA","Kindred représente les essences jumelles de la mort, distinctes mais indissociables. La flèche d'Agneau offre une fin rapide à ceux qui acceptent leur destin. Loup pourchasse ceux qui fuient leur dernier soupir et leur arrache brutalement la vie à coups de crocs. Bien que les interprétations de la nature de Kindred varient à travers tout Runeterra, chaque mortel doit choisir le vrai visage de sa mort."
+62,Kled,Unknown,"RÔLE
+COMBATTANT","RÉGION
+NOXUS","Guerrier aussi intrépide que grincheux, Kled est la plus pure incarnation de la fureur de Noxus. D'aucuns racontent que Kled a combattu dans toutes les campagnes militaires connues, qu'il a reçu chaque grade militaire et qu'il n'a jamais fui le moindre combat. Si la véracité des détails est souvent douteuse, une partie de sa légende ne change jamais : quand il charge sur le dos de Skaarl, sa monture un peu froussarde, Kled se bat pour protéger ce qui lui appartient… et s'emparer de tout le reste !"
+63,Tryndamere,Unknown,"RÔLE
+TIREUR","RÉGION
+LE NÉANT","Émanant d'une brèche ouverte vers le Néant, c'est dans les ruines hantées d'Icathia que Kog'Maw, la putride créature à la gueule béante, et son insatiable curiosité firent leur apparition. Cette étrange bête du Néant doit mâchouiller tout ce qui se trouve à portée pour en comprendre la nature. Bien qu'il ne soit pas fondamentalement mauvais, Kog'Maw est dangereux par sa candeur, d'autant qu'elle précède généralement une frénésie insatiable, mue par sa curiosité sans fond."
+64,LeBlanc,Unknown,"RÔLE
+ASSASSIN","RÉGION
+NOXUS","Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout le monde, et même à plusieurs endroits en même temps. Les objectifs que poursuit LeBlanc, de même que sa véritable identité, sont à l'image de ses complots : totalement insaisissables."
+65,Sin,Unknown,"RÔLE
+COMBATTANT","RÉGION
+IONIA","Maître des antiques arts martiaux d'Ionia, Lee Sin est un combattant dévoué à de nobles principes qui canalise l'esprit du dragon pour affronter tous les défis. Bien qu'il ait perdu la vue il y a bien des années, le moine-guerrier a dédié sa vie à la protection de sa terre natale contre tous ceux qui voudraient en déstabiliser l'équilibre spirituel. Les ennemis qui sous-estiment son apparence méditative auront peu de temps pour le regretter, face à ses poings de feu et à ses coups de pied flamboyants."
+66,Leona,Unknown,"RÔLE
+TANK","RÉGION
+TARGON","Imprégnée de l'énergie du soleil, Leona est une guerrière sainte des Solaris qui défend le Mont Targon ; elle combat avec sa Lame du zénith et son Bouclier de l'aube. Sa peau brûle d'éclats ardents et ses yeux crépitent au rythme de la Manifestation céleste qui l'habite. Équipée d'une armure d'or et affligée par le terrible fardeau de connaissances antiques, Leona apporte à certains l'illumination, à d'autres la mort."
+67,Lillia,Unknown,"RÔLE
+COMBATTANT","RÉGION
+IONIA","Profondément timide, Lillia, le faon féérique, parcourt nerveusement les forêts d'Ionia. Échappant toujours au regard des mortels dont la nature a longtemps captivé et intimidé la jeune créature, Lillia espère découvrir la raison pour laquelle les rêves des mortels n'atteignent plus l'Arbre des rêves. Elle sillonne désormais Ionia, sa branche magique en main, afin de retrouver les rêves inassouvis des hommes. Ce n'est qu'alors que Lillia pourra s'épanouir et aider les autres à démêler leurs peurs et trouver l'étincelle qui se cache au fond d'eux. Hii !"
+68,Lissandra,Unknown,"RÔLE
+MAGE","RÉGION
+FRELJORD","Beaucoup pensent que Lissandra, maîtresse calfeutrée des Gardiens du givre, est une sainte qui apporte sagesse et santé aux tribus de Freljord. La vérité est plus sinistre. Lissandra utilise sa magie élémentaire pour transformer la glace pure en quelque chose de sombre et de terrible, emmurant ou empalant ceux qui risqueraient de révéler ses plus noirs secrets. En vérité, les conséquences de ses actions passées risquent d'être le début de la fin pour Runeterra."
+69,Lucian,Unknown,"RÔLE
+TIREUR","RÉGION
+RUNETERRA","Jadis une Sentinelle de la lumière, Lucian est aujourd'hui un chasseur de morts-vivants. Il poursuit ses cibles sans répit et les éradique avec ses pistolets jumeaux. Après que Thresh a tué Senna, sa femme, Lucian s'est lancé sur la voie de la vengeance. Mais, alors même que Senna est revenue à la vie, la rage de Lucian reste inextinguible. Impitoyable et déterminé, il est prêt à tout pour protéger les vivants des horreurs indicibles de la Brume noire."
+70,Lulu,Unknown,"RÔLE
+SUPPORT","RÉGION
+BANDLE","Magicienne yordle, Lulu aime conjurer des illusions oniriques et de drôles de créatures en explorant Runeterra avec Pix, sa fée de compagnie. Lulu forge la réalité selon ses désirs, modifiant à sa guise la structure du monde et ce qu'elle considère comme les contraintes physiques d'un univers sans saveur. Beaucoup pensent que sa magie n'est pas naturelle, pour ne pas dire dangereuse, mais elle estime qu'un peu d'enchantement ne peut faire de mal à personne."
+71,Lux,Unknown,"RÔLE
+MAGE","RÉGION
+DEMACIA","Luxanna Crownguard est originaire de Demacia, un royaume isolationniste où la magie inspire la peur et la méfiance. Capable de plier la lumière à sa volonté, elle a grandi dans la crainte d'être un jour exilée et a été contrainte de dissimuler son pouvoir pour préserver l'honneur de sa famille. Pourtant, l'optimisme et la résistance de Lux l'ont conduite à accepter ses talents exceptionnels, et elle cherche à répandre dans le royaume une plus grande compréhension et une plus grande tolérance."
+72,Malphite,Unknown,"RÔLE
+TANK",RÉGION,"Massive créature de pierre vivante, Malphite est issu du cœur de la grande structure ixtali connue sous le nom de Monolithe. Il a étudié l'équilibre élémentaire de Runeterra pendant des siècles, utilisant sa force phénoménale pour maintenir l'ordre dans un monde fréquemment en proie au chaos et écraser les horreurs qui rampent sous la surface. Aujourd'hui, Malphite doit endurer le caractère volatil des mortels qui n'ont cessé de troubler son sommeil, tout en défendant la seule cause digne du dernier de son espèce."
+73,Malzahar,Unknown,"RÔLE
+MAGE","RÉGION
+LE NÉANT","Voyant fanatique ayant dédié son existence à l'unification de toute forme de vie, Malzahar croit fermement que le Néant est la voie du salut de Runeterra. Dans les étendues désertiques de Shurima, il suivit les voix qui murmuraient dans son esprit jusqu'à l'antique cité d'Icathia. Au plus profond des ruines, il plongea le regard dans le cœur noir du Néant et reçut de nouveaux pouvoirs, un nouveau but. Malzahar se considère désormais comme un berger : sa tâche est d'unir ses semblables… ou de libérer les créatures du Néant qui vivent sous terre."
+74,Maokai,Unknown,"RÔLE
+TANK","RÉGION
+ÎLES OBSCURES","Maokai est un immense tréant possédé par la colère, qui combat les horreurs impies des Îles obscures. Il est devenu l'incarnation de la vengeance après la destruction de ses terres par un cataclysme magique, n'échappant lui-même à l'état de mort-vivant que grâce à l'eau de la vie qui l'irrigue. Autrefois, Maokai était un paisible esprit de la nature ; aujourd'hui, il combat avec fureur le fléau mort-vivant qui accable les Îles obscures pour rendre à l'archipel son ancienne beauté."
+75,Yi,Unknown,"RÔLE
+ASSASSIN","RÉGION
+IONIA","Maître Yi a renforcé son corps et affûté son esprit jusqu'à ce que réflexion et action ne fassent plus qu'un. Bien qu'il ne fasse appel à la violence qu'en dernier recours, la grâce et la vitesse avec lesquelles il manie son épée assurent une résolution rapide de tout conflit. En tant que l'un des derniers praticiens vivants de l'art martial ionien appelé Wuju, Yi a voué sa vie à perpétuer l'héritage de son peuple, scrutant les nouveaux disciples potentiels à l'aide des Sept lentilles d'éveil pour identifier les plus dignes de recevoir son enseignement."
+76,Fortune,Unknown,"RÔLE
+TIREUR","RÉGION
+BILGEWATER","Capitaine de Bilgewater réputée pour sa beauté et crainte pour sa cruauté, Sarah Fortune est une personnalité qui détonne au milieu des criminels endurcis qui arpentent la cité portuaire. Enfant, elle assista au massacre de sa famille par Gangplank, le roi des pillards, et elle prit sa revanche des années plus tard, faisant exploser son navire alors qu'il se trouvait à bord. Ceux qui la sous-estiment découvrent un adversaire imprévisible et séduisant... avant de prendre une ou deux balles dans les entrailles."
+77,Mordekaiser,Unknown,"RÔLE
+COMBATTANT","RÉGION
+NOXUS","Deux fois abattu et trois fois né, Mordekaiser est un chef de guerre brutal venu d'un lointain passé. Il utilise ses pouvoirs nécromantiques pour lier les âmes à une éternité de servitude. Il n'y a plus guère de gens pour se souvenir de ses anciennes conquêtes ou pour connaître l'étendue de ses vrais pouvoirs. Pourtant, certaines âmes antiques en ont gardé la mémoire et craignent le jour où il prétendra de nouveau régner sur les vivants et les morts."
+78,Morgana,Unknown,"RÔLE
+MAGE","RÉGION
+DEMACIA","Déchirée entre ses origines célestes et mortelles, Morgana a enchaîné ses ailes pour appartenir pleinement à l'humanité et abattre sa peine et sa rancœur sur les corrompus et les malhonnêtes. Elle rejette les lois et les traditions qu'elle juge injustes. Terrée dans les recoins obscurs de Demacia, elle préfère se battre pour la vérité – quand d'autres veulent la faire taire – en employant ses boucliers et ses chaînes de feu ténébreux. Plus que tout, Morgana croit fermement que même les proscrits et les parias peuvent un jour se racheter."
+79,Nami,"RACE
+VASTAYA","RÔLE
+SUPPORT","RÉGION
+RUNETERRA","Jeune Vastaya des mers, Nami fut la première de la tribu des Marai à quitter les océans et à s'aventurer sur la terre ferme lorsque leur accord ancestral avec les Targoniens fut rompu. Convaincue qu'il n'y avait pas d'autre solution, elle a décidé de suivre le rituel sacré permettant de garantir la protection de son peuple. Plongée en plein chaos, Nami fait face à son avenir avec détermination, utilisant son bâton d'Aquamancienne pour invoquer la puissance des océans."
+80,Nasus,Unknown,"RÔLE
+COMBATTANT","RÉGION
+SHURIMA","Nasus est un imposant Transfiguré à tête de chacal, un héros et un demi-dieu autrefois vénéré par le peuple de Shurima. Il était très intelligent ; son savoir encyclopédique et son extraordinaire sens stratégique guidèrent l'empire vers la grandeur pendant des siècles. Après l'Ascension ratée d'Azir, Nasus s'imposa l'exil et devint une légende. Maintenant que le Disque solaire s'élève à nouveau, il est de retour pour s'assurer qu'il ne tombe plus jamais."
+81,Nautilus,Unknown,"RÔLE
+TANK","RÉGION
+BILGEWATER","Nautilus, une légende plus ancienne encore que la première jetée de Bilgewater, est un titan en armure qui sillonne les eaux sombres au large des Îles de la Flamme Bleue. Trahi il y a bien longtemps de cela, il frappe désormais sans prévenir, se servant de son ancre gigantesque pour sauver les malheureux et couler les avares. On raconte qu'il vient chercher ceux qui oublient de payer le « tribut de Bilgewater » et qu'il les emmène avec lui au fond des mers, d'où nul ne peut s'échapper."
+82,Neeko,"RACE
+VASTAYA","RÔLE
+MAGE",RÉGION,"Originaire d'une tribu disparue de Vastayas, Neeko est capable de se fondre dans n'importe quelle foule en empruntant l'apparence des autres, allant même jusqu'à absorber un soupçon de leur état émotionnel pour différencier un instant les amis des ennemis. Personne ne sait réellement où – ni qui – peut bien être Neeko, mais ceux qui chercheront à lui faire du mal découvriront bien vite sa véritable nature… et goûteront à toute la force primordiale de son pouvoir spirituel."
+83,Nidalee,Unknown,"RÔLE
+ASSASSIN",RÉGION,"Élevée au plus profond de la jungle, Nidalee est une pisteuse d'exception qui peut se transformer à volonté en couguar. Ni totalement femme, ni totalement bête, elle défend férocement son territoire contre tous ceux qui veulent y pénétrer avec ses pièges judicieusement placés et sa lance. Elle estropie sa proie avant de se jeter sur elle sous sa forme de félin. Ceux qui survivent sont rares, et tous la décrivent comme une femme aux griffes aussi aiguisées que ses instincts..."
+84,Nocturne,Unknown,"RÔLE
+ASSASSIN","RÉGION
+RUNETERRA","Expression démoniaque des cauchemars qui hantent tous les êtres doués d'intelligence, la chose que l'on nomme Nocturne est devenue une force primordiale de la terreur. D'aspect liquide, c'est une ombre sans visage, au regard glacial, armée de lames effrayantes. Après s'être libéré du royaume spirituel, Nocturne erre désormais dans le monde charnel pour s'y repaître des peurs qui ne peuvent prospérer que dans les vraies ténèbres."
+85,Willump,Unknown,"RÔLE
+TANK","RÉGION
+FRELJORD","Il était une fois un jeune garçon qui voulait prouver qu'il était un héros en tuant un monstre effrayant, mais il découvrit que la créature, un yéti solitaire, avait seulement besoin d'un ami. Rapprochés par une puissance ancienne et un amour partagé des boules de neige, Nunu et Willump courent maintenant librement dans tout Freljord en donnant vie à des aventures rêvées. Ils espèrent un jour retrouver la mère disparue de l'enfant. S'ils peuvent la sauver, peut-être seront-ils vraiment des héros, finalement…"
+86,Olaf,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Olaf, avec sa hache et son extraordinaire force de destruction, ne souhaite que mourir au combat. Venu de l'âpre péninsule freljordienne de Lokfar, il a été choqué par une prophétie qui lui prédisait une mort paisible : dans l'esprit de son peuple, une ignoble fin de lâche. Cherchant la mort et animé par la rage, il ravage une région après l'autre, éliminant des hordes de grands guerriers et de bêtes légendaires dans sa recherche d'un ennemi capable de l'arrêter. Aujourd'hui un brutal combattant de la Griffe hivernale, il espère mourir glorieusement dans les grandes guerres à venir."
+87,Orianna,Unknown,"RÔLE
+MAGE","RÉGION
+PILTOVER","Autrefois jeune fille curieuse, de chair et d'os, Orianna est aujourd'hui une merveille de technologie entièrement mécanisée. Elle est tombée gravement malade à la suite d'un accident dans les quartiers inférieurs de Zaun, et son corps défaillant a été remplacé petit à petit par des prothèses perfectionnées. Accompagnée par l'orbe de cuivre qui abrite son arsenal Hextech, Orianna est désormais libre d'explorer les merveilles de Piltover et d'ailleurs."
+88,Ornn,Unknown,"RÔLE
+TANK","RÉGION
+FRELJORD","Ornn est le demi-dieu de la forge et de l'artisanat à Freljord. Avec comme seule compagne la solitude, il travaille dans sa forge enfouie au plus profond des cavernes de lave de l'Âtre-foyer. C'est là qu'il fond et purifie les métaux nécessaires à la création d'objets de qualité inimitable. Tandis que d'autres divinités – Volibear avant tout – s'immiscent dans les affaires des mortels, Ornn ne sort de son antre que pour remettre ces déités à leur place, avec son fidèle marteau ou les pouvoirs du volcan lui-même."
+89,Pantheon,Unknown,"RÔLE
+COMBATTANT","RÉGION
+TARGON","Autrefois l'hôte réticent de la Manifestation de la Guerre, Atreus a survécu à la mort de la puissance céleste qui l'habitait, refusant de succomber au coup qui arracha les étoiles mêmes des cieux. Avec le temps, il apprit à accepter le pouvoir de sa mortalité, et la résistance bornée qui y est associée. Atreus s'oppose désormais aux entités divines en tant que Pantheon, ressuscité parmi les mortels, et manie les armes de la Manifestation animées par sa volonté inébranlable sur le champ de bataille."
+90,Poppy,Unknown,"RÔLE
+TANK","RÉGION
+DEMACIA","Runeterra ne manque pas de braves champions, mais peu peuvent se targuer d'être aussi tenaces que Poppy. Armée du légendaire marteau d'Orlon, faisant deux fois sa taille, cette yordle déterminée cherche depuis d'innombrables années le « héros de Demacia », qui serait le dépositaire légitime de cette arme. En attendant, elle part inlassablement au combat, repoussant les ennemis du royaume à grands coups de marteau."
+91,Pyke,Unknown,"RÔLE
+SUPPORT","RÉGION
+BILGEWATER","Harponneur renommé des quais-abattoirs de Bilgewater, Pyke aurait dû trouver la mort dans le ventre d'une énorme créature marine… et pourtant, il est revenu. À présent, il écume les ruelles sombres de son ancien port d'attache, utilisant ses dons surnaturels pour assassiner brutalement les riches exploiteurs du peuple. Bilgewater, la ville des chasseurs de monstres, est devenue le terrain de chasse d'un monstre."
+92,Qiyana,Unknown,"RÔLE
+ASSASSIN",RÉGION,"Dans la ville d'Ixaocan, perdue dans la jungle, Qiyana complote pour obtenir au prix du sang le siège révéré des Yun Tal. Dernière dans l'ordre de la succession, elle affronte ceux qui sont sur son chemin avec une absolue confiance en elle et une maîtrise exceptionnelle de la magie élémentaire. La terre elle-même obéit à ses ordres et Qiyana se considère comme la plus grande élémentaliste de l'histoire d'Ixaocan. À ce titre, elle pense mériter, non une ville, mais un empire."
+93,Quinn,Unknown,"RÔLE
+TIREUR","RÉGION
+DEMACIA","Soutenue par les nobles de la famille Buvelle, Quinn est un chevalier-éclaireur de Demacia qui entreprend des missions périlleuses en territoire ennemi. Avec son aigle de légende, Valor, elle forme un duo inséparable dont les proies rendent souvent l'âme avant même de comprendre qu'elles affrontaient non pas un, mais deux des plus grands héros du royaume. Aussi agile que mortellement efficace sur le champ de bataille, Quinn se sert de son arbalète pour abattre les cibles marquées par Valor."
+94,Rakan,"RACE
+VASTAYA","RÔLE
+SUPPORT","RÉGION
+IONIA","Aussi lunatique que charmeur, Rakan est un trublion vastaya tristement célèbre, et le plus grand danseur guerrier de l'histoire de la tribu Lhotla. Pour les humains qui vivent dans les hautes terres d'Ionia, son nom a longtemps été synonyme de festivals endiablés, de fêtes déraisonnables et de musique anarchique. Mais cet histrion ambulant a abandonné son ancienne vie pour se consacrer pleinement à la cause de son amante, Xayah la rebelle. Ensemble, ils se battent désormais pour libérer la magie sauvage d'Ionia et rendre aux Vastayas la terre qui leur appartient."
+95,Rammus,Unknown,"RÔLE
+TANK","RÉGION
+SHURIMA","Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. Protégé par une carapace cloutée, il inspire des théories de plus en plus variées sur ses origines : demi-dieu, oracle, simple bête transformée par la magie... Quelle que soit la vérité, Rammus n'est pas très bavard et ne s'arrête pour personne tandis qu'il parcourt le désert de Shurima."
+96,Sivir,Unknown,"RÔLE
+COMBATTANT","RÉGION
+LE NÉANT","Rek'Sai est une créature prédatrice – la plus imposante et la plus féroce de son espèce – qui se déplace sous terre pour surprendre ses proies. Son appétit vorace a ravagé des régions entières de Shurima à l'époque où cet empire était encore florissant. Les marchands et les caravanes armées faisaient des détours de plusieurs kilomètres pour rester loin de ses terres. Dès lors que Rek'Sai vous a repéré, votre sort est scellé. Nul ne peut lui échapper ; elle est la mort qui surgit du sable."
+97,Rell,Unknown,"RÔLE
+SUPPORT","RÉGION
+NOXUS","Changée en arme vivante par les expériences brutales de l'académie de la Rose noire, Rell est aujourd'hui déterminée à détruire Noxus. Son enfance a été particulièrement horrible ; on lui a fait subir des choses atroces afin de perfectionner ses capacités magiques de manipulation du métal... jusqu'à ce qu'elle réussisse à s'échapper en tuant beaucoup de ses ravisseurs au passage. Désormais considérée comme une criminelle, Rell s'attaque aux soldats noxiens tout en recherchant les survivants de son ancienne « académie ». Bien qu'elle défende les faibles, elle tuera sans pitié ses anciens professeurs."
+98,Glasc,Unknown,"RÔLE
+SUPPORT","RÉGION
+ZAUN","Renata Glasc s'extirpa des cendres de sa maison natale avec son nom et les recherches alchimiques de ses parents pour seules possessions. Au cours des décennies suivantes, elle devint la Baronne de la chimie la plus riche de Zaun et un génie des affaires capable de faire converger les intérêts de tous vers les siens. Travaillez avec elle et vous serez généreusement récompensé. Opposez-vous à elle et vous ne manquerez pas d'occasions de le regretter. Sachez seulement que tout le monde finit par se rallier à elle."
+99,Renekton,Unknown,"RÔLE
+COMBATTANT","RÉGION
+SHURIMA","Originaire du désert brûlant de Shurima, Renekton est un terrifiant Transfiguré animé par la rage. Il était autrefois le champion le plus respecté de l'empire, dont il avait mené les armées à la victoire à maintes reprises. Cependant, après la chute du Disque solaire, Renekton fut enfoui sous les sables. Petit à petit, alors que le monde changeait, il sombra dans la démence. Désormais libre, il est consumé par le désir de se venger de son frère, Nasus, qu'il juge responsable des siècles qu'il a passés dans les ténèbres."
+100,Rengar,"RACE
+VASTAYA","RÔLE
+ASSASSIN",RÉGION,"Rengar est un féroce Vastaya chasseur de trophées qui ne vit que pour le frisson de la traque et de l'élimination des proies les plus dangereuses. Il parcourt le monde à la recherche des bêtes les plus féroces, et surtout de Kha'Zix, la créature du Néant qui lui a fait perdre un œil. Rengar ne piste ses proies ni pour la nourriture ni pour la gloire, mais pour la beauté de la poursuite en elle-même."
+101,Riven,Unknown,"RÔLE
+COMBATTANT","RÉGION
+NOXUS","Autrefois soldat d'un régiment de Noxus, Riven s'est élevée dans la hiérarchie grâce à sa force de conviction et à son efficacité brutale : sa récompense fut de commander ses propres troupes, armée d'une épée runique légendaire. Cependant, sur le front ionien, la foi de Riven en sa nation vacilla et finit par rompre. Elle trancha ainsi tous ses liens avec l'empire dans l'espoir de trouver sa place dans un monde brisé, alors même que, d'après les rumeurs, Noxus avait retrouvé sa vigueur d'antan. Désormais forcée de rentrer en tant que prisonnière, elle doit affronter le jugement de son ancienne patrie…"
+102,Rumble,Unknown,"RÔLE
+COMBATTANT","RÉGION
+BANDLE","Rumble est un jeune inventeur soupe au lait. Ne disposant que de ses deux mains et d'une pile de ferraille, le yordle au tempérament de feu se fabriqua une colossale armure mécanique, dotée d'un arsenal de harpons électrifiés et de roquettes incendiaires. Si certains pouffent devant ses créations sorties tout droit d'une décharge, Rumble n'en a que faire : après tout, c'est lui qui est doté d'un lance-flammes."
+103,Ryze,Unknown,"RÔLE
+MAGE","RÉGION
+RUNETERRA","Largement considéré comme l'un des plus puissants sorciers de Runeterra, Ryze est un archimage endurci par les ans qui porte un fardeau incommensurable sur ses épaules. Armé d'une constitution à toute épreuve et d'un vaste arsenal de connaissances mystiques, il consacre sa vie à rassembler les Runes telluriques, les fragments de magie brute qui ont jadis servi à façonner le monde. Ryze doit récupérer ces reliques avant qu'elles ne tombent entre de mauvaises mains, car il sait quel genre d'horreurs elles pourraient déchaîner sur Runeterra."
+104,Samira,Unknown,"RÔLE
+TIREUR","RÉGION
+NOXUS","Toujours en quête de sensations fortes, Samira regarde la mort dans les yeux avec une confiance inébranlable. Après la destruction qui a frappé son foyer shurimien lorsqu'elle était enfant, Samira a trouvé sa véritable vocation à Noxus, où elle s'est forgé une réputation de tête brûlée extrêmement classe qui accepte les missions les plus dangereuses. Munie de deux pistolets à poudre noire et d'une épée personnalisée, Samira s'épanouit lorsque sa vie est en danger et élimine spectaculairement tous ceux qui se mettent en travers de sa route."
+105,Sejuani,Unknown,"RÔLE
+TANK","RÉGION
+FRELJORD","Sejuani est l'impitoyable chef de guerre sublimée de la Griffe hivernale, l'une des tribus les plus redoutées de Freljord. La survie de son peuple est une lutte constante et désespérée contre les éléments. Pour résister aux rigueurs de l'hiver, il doit lancer des assauts contre les Noxiens, les Demaciens et les Avarosans. Sejuani mène elle-même la charge des plus dangereux de ces assauts en chevauchant son sanglier drüvask, Bristle, et en agitant son fléau de glace pure pour congeler et réduire en miettes ses ennemis."
+106,Senna,Unknown,"RÔLE
+SUPPORT","RÉGION
+RUNETERRA","Condamnée dès l'enfance à être hantée par la mystérieuse Brume noire, Senna rejoignit un ordre sacré connu sous le nom des Sentinelles de la lumière. Elle combattit vaillamment, avant de périr sous les coups du cruel spectre Thresh et de voir son âme emprisonnée dans sa lanterne. Refusant de perdre espoir, Senna apprit à utiliser la Brume à l'intérieur de la lanterne et revint à la vie, changée à jamais. Brandissant désormais la puissance des ténèbres comme de la lumière, Senna cherche à mettre fin à la Brume noire en la retournant contre elle-même, chaque tir de son arme permettant de libérer les âmes qui y sont perdues."
+107,Sett,Unknown,"RÔLE
+COMBATTANT","RÉGION
+IONIA","Sett s'est imposé en tant que chef du monde criminel florissant d'Ionia après la guerre contre Noxus. Bien qu'il ait fait ses débuts de manière modeste dans les arènes de combat de Navori, il s'est rapidement fait une réputation pour sa force sauvage et sa capacité à encaisser tous les coups sans broncher. Après s'être battu pour se faire une place parmi les combattants locaux, Sett s'est hissé au sommet à la force de ses poings pour finalement prendre le contrôle des arènes dans lesquelles il se battait autrefois."
+108,Fate,Unknown,"RÔLE
+ASSASSIN","RÉGION
+RUNETERRA","Fabriqué il y a longtemps pour servir de jouet à un prince qui se sentait seul, Shaco est une marionnette enchantée qui se repaît désormais de meurtres et de chaos. Corrompu par la magie noire et la perte de sa chère mission, le pantin autrefois gentil ne se réjouit plus que du malheur des âmes qu'il tourmente. Il utilise ses jouets et ses mauvais tours pour répandre la mort et le sang, ce qui le fait follement rire. Tous ceux qui, la nuit venue, entendent un odieux ricanement savent qu'ils sont la prochaine cible du Bouffon des ténèbres."
+109,Shen,Unknown,"RÔLE
+TANK","RÉGION
+IONIA","Shen, l'Œil du crépuscule, est le chef d'un groupe secret de guerriers ioniens connu sous le nom de Kinkou. Désireux d'échapper aux méfaits des émotions, des préjugés et de l'ego, il porte un regard désintéressé sur les choses en arpentant le chemin invisible entre le royaume des esprits et le monde physique. Ayant pour mission d'assurer leur équilibre, Shen emploie ses lames d'acier et son énergie arcanique contre ceux qui voudraient le menacer."
+110,Shyvana,Unknown,"RÔLE
+COMBATTANT","RÉGION
+DEMACIA","Shyvana est une créature au cœur embrasé par la magie élémentaire. Bien qu'elle soit le plus souvent visible sous sa forme humaine, elle peut adopter sa véritable forme lorsque c'est nécessaire, celle d'un dragon terrifiant incinérant ses ennemis à l'aide de son souffle enflammé. Après avoir sauvé la vie du prince héritier Jarvan IV, Shyvana sert au sein de sa garde royale, luttant pour être acceptée par le peuple suspicieux de Demacia."
+111,Singed,Unknown,"RÔLE
+TANK","RÉGION
+ZAUN","Singed est un alchimiste zaunien d'une intelligence exceptionnelle, prêt à tout pour repousser les limites de la connaissance, y compris y perdre sa santé mentale. Sa folie répond-elle à une logique ? Ses décoctions ont généralement l'effet escompté, mais pour beaucoup, Singed a perdu tout ce qui faisait de lui un être humain, ne laissant dans son sillage qu'une trace nocive et terrifiante."
+112,Sion,Unknown,"RÔLE
+TANK","RÉGION
+NOXUS","Chef de guerre brutal d'une ère passée, Sion était vénéré à Noxus pour avoir tué un roi de Demacia à mains nues, mais on le priva du repos de la mort et on le ressuscita pour servir de nouveau l'empire. Ses massacres détruisent tous ceux qui se trouvent à proximité, quelle que soit leur allégeance, car il ne lui reste plus grand-chose de son ancienne humanité. Son armure rivetée à même la chair, Sion charge sans relâche au combat, luttant entre deux coups de sa puissante hache pour tenter de se remémorer qui il était."
+113,Sivir,Unknown,"RÔLE
+TIREUR","RÉGION
+SHURIMA","Sivir est un célèbre capitaine de mercenaires œuvrant dans le désert de Shurima. Équipée de son arme légendaire, elle a mené et remporté d'innombrables batailles pour les clients capables de s'offrir ses services. Elle mettait son honneur à retrouver les trésors perdus des catacombes de l'ancien empire… tout en empochant une part des bénéfices. Mais le jour où des forces ancestrales se sont éveillées au plus profond de Shurima, Sivir s'est retrouvée tiraillée entre deux destins conflictuels…"
+114,Skarner,Unknown,"RÔLE
+COMBATTANT","RÉGION
+SHURIMA","Skarner est un Brackern, un immense scorpion cristallin venu d'une vallée cachée de Shurima. Les Brackerns sont réputés pour leur grande sagesse et leur profond lien avec la magie, et leurs corps abritent de puissants cristaux vivants qui servent de réceptacles aux pensées et souvenirs de leurs ancêtres. Il y a de cela fort longtemps, ils sont entrés en hibernation pour éviter la destruction, mais de récents événements ont réveillé Skarner, et celui-ci tente désormais de protéger les siens qui sommeillent encore contre quiconque les mettrait en danger."
+115,Swain,Unknown,"RÔLE
+SUPPORT","RÉGION
+DEMACIA","Sona est une virtuose de l'etwahl qui ne s'exprime que par ses accords vibrants et gracieux. Ses manières distinguées lui valent d'être appréciée par la noblesse demacienne, bien que beaucoup soupçonnent ses mélodies envoûtantes de s'apparenter à de la magie, tabou au sein du royaume. Inaudible pour des étrangers, mais comprise par ses compagnons les plus proches, Sona se sert de ses harmonies pour soigner ses alliés blessés, mais également pour frapper ses ennemis par surprise."
+116,Soraka,Unknown,"RÔLE
+SUPPORT","RÉGION
+TARGON","Vagabonde du royaume céleste, Soraka a abandonné sa forme d'immortelle pour protéger les races mortelles de leur propre ignorance et de leurs instincts violents. Elle cherche à répandre les vertus de la compassion et de la pitié auprès de tous ceux qu'elle rencontre : elle guide les égarés et soigne les blessés. Et, malgré toutes les souffrances dont Soraka a été témoin dans ce monde, elle croit encore que le peuple de Runeterra n'a pas atteint son plein potentiel."
+117,Swain,Unknown,"RÔLE
+MAGE","RÉGION
+NOXUS","Jericho Swain est le chef visionnaire de Noxus, cette nation expansionniste qui ne respecte que la force. Bien que déchu et blessé pendant les guerres ioniennes, il a pris le contrôle de l'empire avec une féroce détermination… et une nouvelle main, démoniaque, a remplacé celle qu'il a perdue au combat. Désormais, Swain dirige ses armées sur la ligne de front, face à des ténèbres qu'il est le seul à percevoir à l'horizon, dans le vol des corbeaux attirés par les cadavres qui l'entourent. Dans un tourbillon de sacrifices et de regrets, le plus grand secret entre tous, c'est que le véritable ennemi est à l'intérieur."
+118,Sylas,Unknown,"RÔLE
+MAGE","RÉGION
+DEMACIA","Élevé dans l'un des quartiers les plus pauvres de Demacia, Sylas de Liebourg est devenu le symbole du côté obscur de la Grande cité. Enfant, sa capacité à déceler la sorcellerie cachée attira l'attention des tristement célèbres traqueurs de mages, qui finirent par l'emprisonner pour avoir retourné ses pouvoirs contre eux. Désormais libéré de ses chaînes, Sylas est un révolutionnaire convaincu, employant la magie de ceux qui l'entourent pour ravager le royaume qu'il a autrefois servi… Et son groupe de mages exilés semble grandir chaque jour un peu plus."
+119,Syndra,Unknown,"RÔLE
+MAGE","RÉGION
+IONIA","Syndra est une effrayante magicienne originaire d'Ionia, aux pouvoirs impressionnants. Enfant, elle perturba les anciens de son village avec sa magie sauvage et incontrôlée. Elle fut confiée à un maître dans l'espoir qu'elle apprendrait à se contrôler, mais elle finit par découvrir que son prétendu mentor limitait ses capacités. Créant des sphères d'énergie noire avec ses sentiments de douleur et de trahison, Syndra jura de détruire quiconque tenterait de la contrôler."
+120,Séraphine,Unknown,"RÔLE
+MAGE","RÉGION
+PILTOVER","Née à Piltover de parents zauniens, Séraphine peut entendre les âmes des autres. Le monde chante pour elle et elle chante pour le monde. Alors que ces sons l'accablaient dans sa jeunesse, elle s'en inspire aujourd'hui et transforme le chaos en symphonie. Elle chante pour les cités sœurs, afin de rappeler à leurs citoyens qu'ils ne sont pas seuls, qu'ils sont plus forts ensemble et que, pour elle, leur potentiel est infini."
+121,Kench,Unknown,"RÔLE
+SUPPORT","RÉGION
+RUNETERRA","Au fil du temps, on lui a donné de nombreux noms. Le démon Tahm Kench voyage dans les cours d'eau de Runeterra, nourrissant son insatiable appétit de la misère des autres. Bien qu'il puisse sembler particulièrement charmant et fier, il rôde dans le monde tel un vagabond à la recherche d'une proie sans méfiance. Sa langue extensible peut étourdir un guerrier en armure à plusieurs mètres de distance, avant de l'attirer dans son estomac gargouillant vers un abysse dont il n'a que peu de chances de revenir."
+122,Taliyah,Unknown,"RÔLE
+MAGE","RÉGION
+SHURIMA","Taliyah est une mage issue des tribus nomades de Shurima, déchirée entre l'émerveillement de la jeunesse et les responsabilités des adultes. Elle a déjà traversé pratiquement tout Valoran pour découvrir la véritable nature de ses pouvoirs toujours plus puissants, avant d'être récemment retournée dans sa tribu pour la protéger. Certains se méprennent sur sa compassion et paient leur erreur au prix fort : sous son attitude joviale, Taliyah dissimule une volonté de fer capable de déplacer les montagnes et un esprit assez féroce pour faire trembler la terre."
+123,Couteau,Unknown,"RÔLE
+ASSASSIN","RÉGION
+NOXUS","Talon est la dague cachée dans l'ombre, un assassin impitoyable, capable de frapper sans prévenir et de fuir avant que l'alerte ne soit donnée. Il a acquis une dangereuse réputation dans les brutales rues de Noxus, où il a été contraint de se battre, de tuer et de voler pour survivre. Adopté par la tristement célèbre famille Du Couteau, il use maintenant de ses talents au service de l'empire, assassinant les chefs, capitaines et héros ennemis... mais aussi tout Noxien qui aurait attiré l'ire de ses maîtres."
+124,Taric,Unknown,"RÔLE
+SUPPORT","RÉGION
+TARGON","Taric est l'hôte de la Manifestation du Protecteur, doté d'un incroyable pouvoir en tant que gardien de la vie, de l'amour et de la beauté sur Runeterra. Couvert d'opprobre pour avoir abandonné son poste et exilé de sa terre natale de Demacia, Taric a entrepris l'ascension du Mont Targon en quête de rédemption et s'est découvert une mission supérieure au sein des étoiles. Imprégné de la puissance d'un être céleste, le « Bouclier de Valoran » se dresse désormais contre quiconque menacerait les habitants de ce monde."
+125,Tristana,Unknown,"RÔLE
+TIREUR","RÉGION
+BANDLE","N'ayant pas peur de braver les obstacles les plus dangereux, Teemo explore le monde avec un enthousiasme débordant et une bonne humeur contagieuse. Yordle au sens moral inflexible, il suit fièrement les préceptes du Code des éclaireurs de Bandle, parfois avec tant d'empressement qu'il en oublie les conséquences néfastes de ses actions. Pour certains, l'existence même des éclaireurs est à remettre en cause. Mais ce qu'il ne faut surtout pas remettre en cause, ce sont les convictions de Teemo !"
+126,Thresh,Unknown,"RÔLE
+SUPPORT","RÉGION
+ÎLES OBSCURES","Sadique mais rusé, Thresh est un ambitieux esprit des Îles obscures. Autrefois le gardien d'innombrables secrets des arcanes, il fut terrassé par un pouvoir plus grand que la vie ou la mort, et il s'alimente maintenant des souffrances et des tourments qu'il inflige à d'autres avec une inventivité cruelle. Les souffrances de ses victimes ne se limitent pas à leur enveloppe mortelle, car Thresh fait agoniser leurs âmes, les emprisonnant pour l'éternité dans sa lanterne impie."
+127,Tristana,Unknown,"RÔLE
+TIREUR","RÉGION
+BANDLE","Si bon nombre d'autres yordles utilisent leur énergie débordante pour explorer, découvrir, inventer ou plus simplement jouer de mauvais tours, Tristana a toujours puisé son inspiration dans les récits des grands guerriers. Elle avait beaucoup entendu parler de Runeterra, de ses factions et de ses guerres, et elle pensait que les yordles aussi avaient l'étoffe des légendes. Dès son arrivée dans ce monde, elle s'équipa de son fidèle canon Boomer pour se jeter au combat avec un courage et un optimisme sans bornes."
+128,Trundle,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Trundle est un troll massif, sournois et malicieux. Il n'y a rien qu'il ne puisse soumettre à sa volonté avec son gourdin, pas même Freljord. Extrêmement territorial, Trundle traque tous ceux qui sont assez fous pour pénétrer sur ses terres. Ensuite, armé de son imposante massue en glace pure, il fait trembler ses ennemis avant de leur planter des éclats de glace dans le corps et de se moquer d'eux tandis que la toundra absorbe leur sang."
+129,Tryndamere,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Poussé par une rage infinie, Tryndamere a naguère traversé Freljord et parfait sa maîtrise du combat en défiant les plus grands guerriers du nord, pour se préparer aux jours sombres qui s'annonçaient. Le barbare enragé cherche depuis longtemps à se venger de l'annihilation de son clan, mais il est récemment devenu le compagnon d'Ashe et a forgé par un mariage une alliance avec la chef de guerre des Avarosans. Sa force est pratiquement surhumaine et son courage légendaire, et cela lui a permis de remporter avec ses nouveaux alliés d'innombrables victoires plus qu'improbables."
+130,Fate,Unknown,"RÔLE
+MAGE","RÉGION
+BILGEWATER","Twisted Fate est un virtuose des cartes à la réputation ambiguë qui a parcouru le monde entier pour l'éblouir de son charme et de ses talents, s'attirant l'admiration et la haine des riches comme des pigeons. Il prend rarement les choses au sérieux, salue chaque nouveau jour avec un sourire moqueur et insouciant. Twisted a toujours un atout dans sa manche, au propre comme au figuré."
+131,Twitch,Unknown,"RÔLE
+TIREUR","RÉGION
+ZAUN","Rat de Zaun, pesteux de naissance, connaisseur en saleté par passion, Twitch n'a pas peur de se salir les pattes. Armé d'une arbalète chimique qu'il pointe droit sur le cœur de Piltover, Twitch s'est juré de montrer aux gens de la surface à quel point ils sont vraiment sales. Toujours furtif et insaisissable, quand il ne traîne pas dans le Puisard, il fouille dans les déchets à la recherche de trésors qu'il est le seul à apprécier... ou d'un morceau de sandwich."
+132,Udyr,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Plus qu'un simple mortel, Udyr est le réceptacle de la puissance sauvage des esprits animaux primitifs de Freljord. Quand il puise dans leur nature bestiale, il bénéficie de forces différentes : vitesse, résistance ou férocité brutale. En combinant ces atouts, Udyr repoussera quiconque veut attaquer l'ordre naturel du monde."
+133,Urgot,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ZAUN","Autrefois, Urgot était un puissant bourreau noxien. Il fut trahi par l'empire pour lequel il avait tant tué. Ceint de chaînes de fer, il fut contraint d'apprendre le vrai sens de la force dans les Oubliettes, une mine de forçats située dans les profondeurs de Zaun. Il put émerger à l'occasion d'un désastre qui jeta toute la ville dans le chaos. À présent, son ombre imposante s'étend dans son empire criminel souterrain. Levant sur ses victimes les chaînes qui le maintenaient naguère en esclavage, il veut purger son nouveau foyer, nouvelle croisée des douleurs, de tous ceux qu'il en estime indignes."
+134,Varus,"RACE
+DARKIN","RÔLE
+TIREUR","RÉGION
+IONIA","Membre de la race antique des Darkin, Varus était en son temps un assassin cruel qui aimait torturer ses ennemis, les conduisant jusqu'aux portes de la folie avant de les achever d'une flèche. À la fin de la Guerre des Darkin, il fut emprisonné. Des siècles plus tard, il s'évada en utilisant la chair recomposée de deux chasseurs d'Ionia : l'ayant relâché par imprudence, ils furent condamnés à porter l'arc lié à l'essence de Varus. Varus traque désormais ceux qui l'ont enfermé pour se venger, mais les âmes des mortels à l'intérieur de lui s'opposent à ses desseins de toutes leurs forces."
+135,Vayne,Unknown,"RÔLE
+TIREUR","RÉGION
+DEMACIA","Shauna Vayne est une chasseuse de monstres mortelle et sans scrupule. Originaire de Demacia, elle voue sa vie à la destruction du démon qui a assassiné sa famille. Armée d'une arbalète montée sur son poignet et dotée d'un cœur rongé par le désir de vengeance, elle n'est heureuse que quand elle assassine les praticiens ou les créations des arts obscurs en les frappant depuis l'ombre avec une volée de carreaux d'argent."
+136,Veigar,Unknown,"RÔLE
+MAGE","RÉGION
+BANDLE","Enthousiaste sorcier yordle, Veigar s'est livré à des pouvoirs que peu d'autres osent approcher. Citoyen de Bandle à l'esprit libre, il voulait en apprendre plus sur la magie céleste pratiquée par les mortels, mais sa curiosité naturelle fut dévoyée par son emprisonnement dans le Bastion immortel. Créature têtue désormais en possession de la fureur noire des étoiles, Veigar est souvent sous-estimé. Bien qu'il se considère lui-même comme profondément maléfique, certains s'interrogent sur ses motivations les plus profondes…"
+137,Vel'Koz,Unknown,"RÔLE
+MAGE","RÉGION
+LE NÉANT","On ne sait pas trop si Vel'Koz fut le premier Néantin à émerger à Runeterra, mais il est certain qu'aucun autre n'a jamais égalé la froideur calculatrice de sa cruauté. Alors que ses semblables dévorent ou profanent tout ce qui les entoure, il cherche à étudier le royaume physique et les étranges êtres belliqueux qui l'habitent. Selon lui, c'est ainsi que le Néant trouvera comment exploiter leurs faiblesses. Mais Vel'Koz n'est pas qu'un observateur passif. Il répond à toute menace avec des éruptions mortelles de plasma ou en déchirant le tissu même du monde."
+138,Vex,Unknown,"RÔLE
+MAGE","RÉGION
+ÎLES OBSCURES","Au cœur des terribles Îles obscures et de leur brume spectrale, une yordle solitaire se complaît dans son malheur. Vex se protège de la gaieté, de l'excitation et des gens « normaux » dont le monde extérieur regorge grâce à une dose inépuisable d'apitoiement et à une ombre puissante. Même si l'ambition lui fait défaut, on peut compter sur elle pour ternir le bonheur des autres et éloigner tous ceux qui voudraient l'approcher avec sa morosité magique."
+139,Vi,Unknown,"RÔLE
+COMBATTANT","RÉGION
+PILTOVER","Autrefois criminelle des quartiers louches de Zaun, Vi est une femme sans peur, mais pas sans reproche, au tempérament bouillant, impulsive, qui n'a qu'un respect mesuré pour les représentants de l'autorité. Vi a grandi seule et a développé d'excellents instincts de survie ainsi qu'un sens de l'humour assez caustique. Aujourd'hui, elle travaille avec les gendarmes pour maintenir l'ordre à Piltover et se sert pour cela de puissants gantelets Hextech qui n'ont peur de frapper ni les plus épais murs de briques ni les suspects."
+140,Viego,Unknown,"RÔLE
+ASSASSIN","RÉGION
+ÎLES OBSCURES","Autrefois souverain d'un royaume perdu depuis longtemps, Viego mourut il y a plus de mille ans lorsqu'il tenta de ramener sa femme d'entre les morts. Cela causa la catastrophe magique connue sous le nom de la Ruine. Devenu un puissant spectre torturé par le désir obsessionnel de retrouver sa reine morte depuis des siècles, Viego est désormais le Roi déchu. Il contrôle la Nuit de l'horreur et parcourt Runeterra pour trouver un moyen de ramener sa bien-aimée, détruisant tout sur son passage avec la Brume noire qui se répand inlassablement depuis son cœur brisé et cruel."
+141,Viktor,Unknown,"RÔLE
+MAGE","RÉGION
+ZAUN","Héraut d'un nouvel âge de technologie, Viktor a consacré sa vie aux progrès de l'humanité. Idéaliste cherchant à hisser le peuple de Zaun à de nouveaux sommets de compréhension, il pense que le potentiel de l'humanité ne pourra être réalisé que par le grand pas en avant d'une glorieuse évolution technologique. Doté d'un corps optimisé par l'acier et la science, Viktor poursuit fanatiquement son idéal d'un meilleur avenir."
+142,Vladimir,Unknown,"RÔLE
+MAGE","RÉGION
+NOXUS","Assoiffé de sang humain, Vladimir influe sur la politique de Noxus depuis les premiers jours de l'empire. En plus d'allonger surnaturellement sa vie, sa maîtrise de l'hémomancie lui permet de contrôler les esprits et les corps des autres aussi aisément que les siens. Dans les flamboyants salons de l'aristocratie noxienne, cela lui a permis de créer autour de lui un culte de la personnalité. Cependant, dans les bas-fonds, il saigne littéralement ses ennemis à blanc."
+143,Volibear,Unknown,"RÔLE
+COMBATTANT","RÉGION
+FRELJORD","Pour ceux qui le vénèrent encore, Volibear est l'incarnation de la tempête. Destructeur, sauvage et déterminé, il existait bien avant que les mortels n'arpentent la toundra de Freljord ; désormais, il défend férocement les terres qu'il a créées avec sa famille de demi-dieux. Habité d'une haine profonde envers la civilisation et la faiblesse qu'elle a engendrée, il se bat à coups de crocs et de griffes pour restaurer les traditions d'autrefois, celles du temps où la terre était sauvage et où le sang coulait librement."
+144,Warwick,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ZAUN","Warwick est un monstre qui chasse dans les rues grisâtres de Zaun. Transformé par des expériences horribles, son corps est désormais muni d'un système intriqué de chambres et de pompes qui injecte une rage alchimique dans ses veines. Surgissant des ombres, il traque les criminels qui terrorisent les profondeurs de la ville. Warwick est attiré par le sang, dont l'odeur le rend fou. Si sa proie saigne, elle n'a aucune chance de lui échapper."
+145,Wukong,"RACE
+VASTAYA","RÔLE
+COMBATTANT","RÉGION
+IONIA","Wukong est un Vastaya qui utilise sa force, son agilité et son intelligence pour semer la confusion parmi ses adversaires et prendre sur eux l'avantage. Après s'être fait un ami en la personne d'un guerrier nommé Maître Yi, Wukong est devenu le dernier tenant d'un art martial antique connu sous le nom de Wuju. Armé de son bâton enchanté, Wukong veut empêcher Ionia de devenir ruines et décombres."
+146,Xayah,"RACE
+VASTAYA","RÔLE
+TIREUR","RÉGION
+IONIA","Précise et meurtrière, Xayah est une révolutionnaire vastaya menant une guerre personnelle dans le but de sauver son peuple. Elle se sert de sa célérité, de sa ruse et de ses plumes tranchantes comme des rasoirs pour terrasser tous ceux qui se dressent sur sa route. Xayah se bat aux côtés de son partenaire et amant, Rakan, pour défendre leur tribu dépérissante et rendre à leur race ce qu'elle considère être sa gloire d'antan."
+147,Xerath,Unknown,"RÔLE
+MAGE","RÉGION
+SHURIMA","Xerath est un mage transfiguré de la Shurima antique, un être d'énergie arcanique habitant les fragments détruits d'un sarcophage magique. Pendant des millénaires, il est resté prisonnier des sables du désert, mais le retour de Shurima l'a libéré de sa prison ancestrale. Devenu ivre de pouvoir, il cherche désormais à reprendre ce qu'il croit lui être dû et à remplacer les civilisations arrivistes qui ont pris possession du monde par une nouvelle, façonnée à son image."
+148,Zhao,Unknown,"RÔLE
+COMBATTANT","RÉGION
+DEMACIA","Xin Zhao est un guerrier résolu qui sert fidèlement la famille royale de Demacia. Naguère condamné à se battre dans les arènes de combat de Noxus, il survécut à d'innombrables rencontres de gladiateurs. Ce n'est que lorsqu'il affronta les armées du roi Jarvan III qu'il décida d'abandonner son ancienne vie pour servir une cause qu'il jugeait plus honorable. Armé de sa lance à trois pointes, Xin Zhao combat désormais pour son royaume, défiant ses ennemis avec audace, quelles que soient ses chances de succès."
+149,Yasuo,Unknown,"RÔLE
+COMBATTANT","RÉGION
+IONIA","L'Ionien Yasuo est un épéiste agile et résolu, capable de déchaîner contre ses ennemis la puissance de l'air. Alors qu'il était encore un jeune homme fier, il fut accusé à tort d'avoir assassiné son maître. Incapable de prouver son innocence, il dut fuir et fut finalement contraint de tuer son frère pour se défendre. Plus tard, l'on découvrit l'identité du véritable meurtrier et le frère de Yasuo revint mystérieusement à la vie ; pourtant, Yasuo ne parvenait toujours pas à faire la paix avec sa conscience. Il parcourt désormais le monde, laissant le vent guider sa lame."
+150,Yone,Unknown,"RÔLE
+ASSASSIN","RÉGION
+IONIA","Au cours de sa vie, Yone fut le demi-frère de Yasuo et un disciple renommé de l'école d'armes de son village. Mais après avoir été tué par son propre frère, il se retrouva hanté par une entité malveillante dans le royaume spirituel. Il dut la tuer avec sa propre épée. Désormais maudit et forcé de porter le masque de l'azakana, Yone chasse inlassablement ces créatures démoniaques afin de comprendre ce qu'il est devenu."
+151,Yorick,Unknown,"RÔLE
+COMBATTANT","RÉGION
+ÎLES OBSCURES","Yorick est le dernier survivant d'un ordre religieux disparu depuis longtemps et son pouvoir sur les morts est à la fois une bénédiction et une malédiction. Prisonnier des Îles obscures, il n'a pour compagnons que les cadavres pourrissants et les esprits hurlants qu'il rassemble. Les actes monstrueux de Yorick trahissent son noble objectif : libérer sa terre natale de la malédiction de la Ruine."
+152,Yuumi,Unknown,"RÔLE
+SUPPORT","RÉGION
+BANDLE","Originaire de Bandle, Yuumi est un familier magique dont la maîtresse, une enchanteresse yordle du nom de Norra, a mystérieusement disparu. Yuumi est désormais la gardienne du Grimoire des Seuils que possédait Norra, un livre permettant de franchir des portails. Partie à la recherche de sa maîtresse, Yuumi s'est fait de nouveaux amis durant son périple, et elle les protège tous avec la même détermination. Même si Grimoire aimerait que Yuumi se concentre davantage sur sa mission, sa comparse aime prendre le temps de faire la sieste et de pêcher des poissons. Malgré cela, elle finit toujours par repartir en quête de sa maîtresse."
+153,Zac,Unknown,"RÔLE
+TANK","RÉGION
+ZAUN","Zac est le produit d'une fuite toxique qui, dégoulinant par une veine techno-chimique, se transforma en bassin dans une profonde caverne du Puisard de Zaun. En dépit de ses humbles origines, Zac a évolué pour passer du stade de dépôt primordial à celui d'être pensant qui se faufile dans les canalisations de la ville. De temps en temps, il émerge pour aider ceux qui ne s'en sortent pas seuls ou pour reconstruire les infrastructures en mauvais état de Zaun."
+154,Zed,Unknown,"RÔLE
+ASSASSIN","RÉGION
+IONIA","L'impitoyable Zed est le maître de l'Ordre de l'ombre, une organisation qu'il a créée dans l'intention de militariser la tradition des arts martiaux d'Ionia et de chasser enfin les envahisseurs noxiens. Pendant la guerre, le désespoir le conduisit à déchaîner la Forme secrète de l'ombre, une magie spirituelle maléfique aussi dangereuse et corruptrice que puissante. Si Zed maîtrise ces techniques interdites, c'est pour détruire tout ce qu'il considère comme une menace contre sa nation ou son ordre."
+155,Zeri,Unknown,"RÔLE
+TIREUR","RÉGION
+ZAUN","Zeri est une jeune femme vive et téméraire originaire des quartiers défavorisés de Zaun. Elle canalise son électricité intérieure afin de la charger dans un fusil conçu spécialement pour elle. Son pouvoir magique est le reflet de ses émotions, et ses étincelles sont aussi fulgurantes que son caractère. Résolument tournée vers les autres, Zeri se sert de son amour pour sa famille et son quartier durant chaque combat. Malgré toute sa bonne volonté, cependant, les événements ne se passent pas toujours comme prévu. Cela dit, Zeri est sûre d'une chose : si vous vous battez pour votre communauté, elle se battra avec vous."
+156,Heimerdinger,Unknown,"RÔLE
+MAGE","RÉGION
+ZAUN","Amoureux des grosses bombes et des mèches courtes, le yordle Ziggs est une force de la nature explosive. Assistant d'un inventeur de Piltover, il finit par se lasser de sa vie routinière et devint l'ami d'une jeune fille imprévisible et portée sur les explosifs, Jinx. Après une folle nuit en ville, Ziggs suivit les conseils de Jinx et s'installa à Zaun, où il se livre désormais à sa passion plus librement, terrorisant les Barons de la chimie comme les simples citoyens dans sa quête éternelle pour faire sauter tout ce qui traverse son champ de vision."
+157,Zilean,Unknown,"RÔLE
+SUPPORT","RÉGION
+RUNETERRA","Autrefois membre du conseil d'Icathia, Zilean est un prodigieux mage élémentaire qui cherche à maîtriser le temps lui-même. Après avoir utilisé ses pouvoirs pour tenter de sauver son peuple du Néant, il dérive à travers le passé, le présent et l'avenir, influant sur l'écoulement du temps autour de lui. Zilean a tout vu, depuis la création mystérieuse de Runeterra jusqu'à sa fin apparemment inévitable, et il recherche le moindre fil du destin capable d'empêcher la destruction de sa terre natale."
+158,Zoé,Unknown,"RÔLE
+MAGE","RÉGION
+TARGON","Incarnation de l'espièglerie, de l'imagination et de l'inconstance, Zoé est une messagère cosmique de Targon, annonciatrice des grands événements qui chamboulent les mondes. Sa simple présence distord les règles mathématiques qui gouvernent dans l'ombre les réalités et, sans pour autant le vouloir, peut même provoquer des cataclysmes. Cela explique peut-être la nonchalance désinvolte avec laquelle Zoé traite ses tâches, préférant consacrer le plus clair de son temps à s'amuser, à jouer des tours aux mortels, bref, à faire tout ce qui lui plaît. Une rencontre avec Zoé peut se révéler joyeuse et porteuse d'optimisme, mais ce n'est souvent qu'une apparence, cachant une vérité extrêmement dangereuse."
+159,Zyra,Unknown,"RÔLE
+MAGE",RÉGION,"Née au cours d'une ancienne catastrophe magique, Zyra est la colère de la nature incarnée : mélange de plante et d'humain, faisant émerger de nouvelles pousses à chaque pas. Elle considère les nombreux mortels de Valoran comme de simples proies pour sa progéniture végétale, et les éliminer avec ses gerbes d'épines ne lui pose aucun problème. Bien que nul ne connaisse ses vrais objectifs, Zyra erre de par le monde, suivant son instinct qui est de coloniser toujours plus de terres et d'en exterminer toutes les autres formes de vie."
